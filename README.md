@@ -14,7 +14,3 @@ The count will be saved in your browser, so it persists when you refresh the pag
 Installation
 Simply download or clone the repository, and open the index.html file in your browser.
 
-Technologies Used
-HTML
-CSS
-JavaScript
